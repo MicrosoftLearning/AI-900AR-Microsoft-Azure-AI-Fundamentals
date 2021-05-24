@@ -1,4 +1,4 @@
-﻿<div dir="rtl">
+<div dir="rtl">
 ---
 lab:
    title: 'إيصالات مع أداة التعرف النماذج'
