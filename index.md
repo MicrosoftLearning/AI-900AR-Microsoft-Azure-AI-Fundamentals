@@ -1,4 +1,5 @@
-﻿---
+﻿<html dir="rtl" lang="ar">
+---
 title: تعليمات مستضافة عبر الإنترنت
 permalink: index.html
 layout: home
@@ -13,5 +14,6 @@ layout: home
 {% assign labs = site.pages | where_exp:"page", "page.url contains '/instructions'" %}
 | تمارين |
 | ------- | 
-{? للنشاط في الأنشطة المعملية ?}| [{{activity.lab.title}}]({{ site.github.url }}{{ activity.url }}) |
-{? endfor?}
+{% for activity in labs  %}| [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }}) |
+{% endfor %}
+</html>
