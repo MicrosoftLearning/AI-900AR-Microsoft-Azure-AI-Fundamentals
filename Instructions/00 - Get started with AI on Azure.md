@@ -1,8 +1,6 @@
 ---
-<div dir="rtl" align="right">
 lab:
    title: 'بدء استخدام الذكاء الاصطناعي على Azure'
-</div>
 ---
 
 <div dir="rtl" align="right">
