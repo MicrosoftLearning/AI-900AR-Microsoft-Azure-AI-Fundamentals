@@ -1,4 +1,4 @@
-﻿# تمارين أساسيات الذكاء الاصطناعي Microsoft Azure
+# تمارين أساسيات الذكاء الاصطناعي Microsoft Azure
 
 يحتوي هذا المستودع على تمارين معملية عملية لدورة Microsoft التدريبية [الذكاء الاصطناعي-900 * أساسيات Microsoft Azure AI *](https://docs.microsoft.com/ar-sa/learn/certifications/courses/ai-900t00) و[الوحدات النمطية الذاتية في Microsoft Learn.](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals) صُممت الأنشطة المعملية لمرافقة المواد التعليمية وتمكينك من التدرب على استخدام التقنيات التي يصفونها. 
 
