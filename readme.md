@@ -1,4 +1,4 @@
-### Notes
+### <div align='right'> ملاحظات
 
-Due to a limitation in the Jupyter file format, we are unable to publish Arabic language versions of the Labs for course AI-900.  We are working to resolve this issue but for the moment, we would recommend that Arabic users use the English version of the Labs for this course.  The English version of the Labs can be found at the location below:
-https://github.com/MicrosoftLearning/mslearn-ai900
+نظرًا للقيود في تنسيق ملف Jupyter، لا يمكننا نشر إصدارات اللغة العربية من أنشطة التدريب العملية للدورة التدريبية AI-900.  نحن نعمل على حل هذه المشكلة ولكن في الوقت الحالي، نوصي المستخدمين العرب باستخدام النسخة الإنجليزية من أنشطة التدريب العملية لهذه الدورة.  يمكنك العثور على النسخة الإنجليزية من أنشطة التدريب العملية في الموقع أدناه: https://github.com/MicrosoftLearning/mslearn-ai900
+</div>
